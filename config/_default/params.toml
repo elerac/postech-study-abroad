@@ -1,0 +1,12 @@
+[sidebar]
+subtitle = "2024年3月から2025年2月の間，韓国にあるPOSTECH（浦項工科大学校）で研究留学をしています．POSTECHでの研究留学の様子，学内施設，日常生活などを紹介します．"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "ponix.jpg"
+
+[article]
+headingAnchor = false
+math = false
+readingTime = false
