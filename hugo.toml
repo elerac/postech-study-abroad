@@ -1,0 +1,36 @@
+baseURL = 'https://example.org/'
+#languageCode = 'ja-jp'
+title = 'POSTECH研究留学記'
+theme = 'hugo-theme-stack'
+
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+[main.params]
+icon = "home"
+newtab = true
+
+[[menu.main]]
+name = "ホーム"
+url = "/"
+weight = 10
+identifier = "home"
+[menu.main.params]
+icon = "home"
+
+[[menu.main]]
+name = "フォトギャラリー"
+url = "/gallery/photo-gallery/"
+weight = 30
+identifier = "gallery"
+[menu.main.params]
+icon = "photo"
+
+#[[menu.main]]
+#name = "About me"
+#url = "/about/"
+#weight = 40
+#identifier = "about me"
+#[menu.main.params]
+#icon = "user"
