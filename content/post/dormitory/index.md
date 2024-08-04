@@ -38,3 +38,17 @@ DICEはPOSTECHのキャンパス内に位置しています。**食堂やコン�
 ![2階共有スペース (1)](dice-share-2-1.jpg) ![2階共有スペース (2)](dice-share-2-2.jpg) ![2階共有スペース (3)](dice-share-2-3.jpg) ![2階共有スペース (4)](dice-share-2-4.jpg)
 
 ![簡単なキッチン](dice-share-2-5.jpg) ![IH](dice-share-2-6.jpg) ![水洗い場](dice-share-2-7.jpg) ![ウォーターサーバー](dice-share-2-8.jpg)
+
+## 洗面所・洗濯機・トイレ・シャワールーム
+
+各階に水回りが設置されており、洗面所、トイレ、シャワールームがあります。
+
+洗濯機と乾燥機は1回の使用につき500ウォンです。あらかじめチャージした専用のカードを使用して支払います。洗剤は自分で用意する必要があります。
+
+シャワールームでのシャンプーやボディーソープは、各自で用意する必要がありますが、留学開始時に大学から1ボトル分もらえました。
+
+![各階に水回り有り](dice-washroom-1.jpg) ![洗面台](dice-sink-1.jpg) ![洗濯機(2台)・乾燥機(1台)](dice-laundry-1.jpg) ![ゴミ箱](dice-trashbox-1.jpg)
+
+![トイレ（小3台）](dice-toilet-1.jpg) ![トイレ（大3台）](dice-toilet-2.jpg) ![洗面用具置き場](dice-shelf-1.jpg) ![ドライヤー](dice-hair-dryer-1.jpg)
+
+![シャワールーム（6ブース）](dice-shower-1.jpg) ![各シャワーブース](dice-shower-2.jpg) ![手持ちに切り替え可能](dice-shower-3.jpg) ![脱衣所](dice-shower-4.jpg)
