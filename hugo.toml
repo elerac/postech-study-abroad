@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://elerac.github.io/postech-study-abroad/'
 #languageCode = 'ja-jp'
 title = 'POSTECH研究留学記'
 theme = 'hugo-theme-stack'
