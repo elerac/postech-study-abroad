@@ -4,7 +4,7 @@ subtitle = "2024年3月から2025年2月の間，韓国にあるPOSTECH（浦項
 [sidebar.avatar]
 enabled = true
 local = true
-src = "ponix.jpg"
+src = "avatar.jpg"
 
 [article]
 headingAnchor = false
