@@ -10,3 +10,7 @@ src = "ponix.jpg"
 headingAnchor = false
 math = false
 readingTime = false
+
+[colorScheme]
+toggle = true
+default = "light"
